@@ -1,8 +1,17 @@
 # 🌴 SawitDB
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c81f2ae8-88bf-4ba2-9b1a-f9b007ea7723" />
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/c81f2ae8-88bf-4ba2-9b1a-f9b007ea7723"
+    width="400"
+    height="400"
+    alt="SawitDB Logo"
+  />
+</p>
 
+<p align="center">
+  Built with ❤️ by greycat · written in Rust
+</p>
 
-Built with ❤️ by greycat written in Rust
 <hr>
 <p>SawitDB is a JSON-style document database written in Rust, built as a technical experiment and a satirical commentary on Indonesian government systems particularly the bureaucratic mindset and the brutal expansion of oil palm plantations in Aceh, Sumatra.</p>
 <p>SawitDB is a lightweight, JSON-based, document-oriented database that runs as a TCP server and can be accessed via a custom URI scheme:</p>
