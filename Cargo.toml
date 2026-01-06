@@ -1,0 +1,16 @@
+[package]
+name = "sawitdb"
+version = "0.1.0"
+edition = "2024"
+description="A sarcastic DBMS JSON–inspired project exposing and criticizing the Indonesian government’s brutal exploitation of land through oil palm plantation expansion in Aceh, Sumatra."
+authors = ["greycat", "greycat <greycat@wearehackerone.com>"]
+
+[dependencies]
+anyhow = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+uuid = { version = "1", features = ["v4"] }
+tokio = { version = "1", features = ["full"] }
+bytes = "1"
+clap = { version = "4", features = ["derive"] }
+url = "2"
