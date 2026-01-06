@@ -65,7 +65,7 @@ cargo run -- cli --uri sawit://127.0.0.1:27017 ping
 <br>
 
 ```bash
-cargo run -- cli --uri sawit://127.0.0.1:27017 db-create toko
+cargo run -- cli --uri sawit://127.0.0.1:27017 db-create testdb
 ```
 #### Insert document
 ```bash
