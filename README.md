@@ -69,20 +69,20 @@ cargo run -- cli --uri sawit://127.0.0.1:27017 db-create testdb
 ```
 #### Insert document
 ```bash
-cargo run -- cli --uri sawit://127.0.0.1:27017 insert toko users '{"name":"Budi","age":20}'
+cargo run -- cli --uri sawit://127.0.0.1:27017 insert testdb users '{"name":"Budi","age":20}'
 ```
 #### Find documents
 ```bash
-cargo run -- cli --uri sawit://127.0.0.1:27017 find toko users "name=Budi"
+cargo run -- cli --uri sawit://127.0.0.1:27017 find testdb users "name=Budi"
 ```
 #### Update document (by id)
 ```bash
-cargo run -- cli --uri sawit://127.0.0.1:27017 update toko users <ID> '{"age":21}'
+cargo run -- cli --uri sawit://127.0.0.1:27017 update testdb users <ID> '{"age":21}'
 ```
 
 #### Delete document
 ```bash
-cargo run -- cli --uri sawit://127.0.0.1:27017 delete toko users <ID>
+cargo run -- cli --uri sawit://127.0.0.1:27017 delete testdb users <ID>
 ```
 ### Database Operations
 <table>
