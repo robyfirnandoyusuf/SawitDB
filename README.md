@@ -1,5 +1,6 @@
 # 🌴 SawitDB
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/45815f83-f189-449b-a522-53b927387250" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c81f2ae8-88bf-4ba2-9b1a-f9b007ea7723" />
+
 
 Built with ❤️ by greycat written in Rust
 <hr>
