@@ -1,4 +1,6 @@
 # 🌴 SawitDB
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/45815f83-f189-449b-a522-53b927387250" />
+
 Built with ❤️ by greycat using Rust
 <hr>
 <p>SawitDB is a JSON-style document database written in Rust, built as a technical experiment and a satirical commentary on Indonesian government systems particularly the bureaucratic mindset and the brutal expansion of oil palm plantations in Aceh, Sumatra.</p>
